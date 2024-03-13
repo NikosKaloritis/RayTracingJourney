@@ -13,7 +13,7 @@ Each branch will contain a different project of a ray tracer
 
 ## To use meson build follow
 
-[mesonbuild installation instructions](https://mesonbuild.com/SimpleStart.html)
+[meson build set up](https://mesonbuild.com/SimpleStart.html)
 ---
 [quickstart guide](https://mesonbuild.com/Quick-guide.html)
 
