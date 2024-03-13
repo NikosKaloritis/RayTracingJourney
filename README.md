@@ -11,7 +11,7 @@ Each branch will contain a different project of a ray tracer
 ![Sphere intersection with normals](https://github.com/NikosKaloritis/RayTracingJourney/assets/115344643/972082f3-233b-4f40-a57b-7930a025128e)
 
 
-To use meson build follow
+To use meson build follow <br>
 [meson build set up](https://mesonbuild.com/SimpleStart.html) <br>
 [quickstart guide](https://mesonbuild.com/Quick-guide.html)
 
