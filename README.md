@@ -8,8 +8,7 @@ Initially focusing on the Ray Tracing series
 Goal of this repository is to create a collection of ray tracing and path tracing techniques, ranging from basic to sophisticated implementations
 Each branch will contain a different project of a ray tracer
 
-![Sphere intersection with normals](image.ppm)
-
+![Sphere intersection with normals](https://github.com/NikosKaloritis/RayTracingJourney/assets/115344643/972082f3-233b-4f40-a57b-7930a025128e)
 
 
 ## To use meson build follow
