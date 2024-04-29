@@ -8,11 +8,7 @@ Initially focusing on the Ray Tracing series
 Goal of this repository is to create a collection of ray tracing and path tracing techniques, ranging from basic to sophisticated implementations
 Each branch will contain a different project of a ray tracer
 
-
-![Final Image](https://github.com/NikosKaloritis/RayTracingJourney/assets/115344643/79586c38-6d23-4ac7-86f5-a02e98f09691)
-
-![Sphere intersection with normals](https://github.com/NikosKaloritis/RayTracingJourney/assets/115344643/972082f3-233b-4f40-a57b-7930a025128e)
-
+![final image](https://github.com/NikosKaloritis/RayTracingJourney/assets/115344643/8fe8e427-68c8-4c14-8ce4-af3b24b21e20)
 
 To use meson build follow <br>
 [meson build set up](https://mesonbuild.com/SimpleStart.html) <br>
